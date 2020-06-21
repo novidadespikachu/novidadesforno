@@ -62,6 +62,16 @@ Speed: 12.12MBps
 ETA: 3m 28s
 nao e simples nao mano é desse jeito aqui
 
+<a href="https://bit.ly/novidadenovelas">
+<img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
+</a>
+<a href="https://bit.ly/pikachufull">
+<img src="https://tinyurl.com/y9zk36eq" alt="pikachu">
+</a>
+<a href="https://bit.ly/novidadedocs">
+<img src="https://tinyurl.com/y9xs5l4t" alt="pikachu">
+</a>
+
 <table style="width:90%">
   <tr>
     <th><a href="https://bit.ly/novidadenovelas">
