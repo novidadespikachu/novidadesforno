@@ -98,7 +98,6 @@ nao e simples nao mano é desse jeito aqui
 <a href="https://bit.ly/pikachufull">
 <img src="https://tinyurl.com/y72vpx8n" alt="pikachu">
 </a>
-</a>
 <a href="https://bit.ly/novidadelives">
 <img src="https://tinyurl.com/y8ehpr7u" alt="pikachu">
 
