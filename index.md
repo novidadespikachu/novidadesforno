@@ -67,7 +67,26 @@ ETA: 3m 28s
 <img src="https://tinyurl.com/ydcxhx7f" alt="HTML tutorial" >
 </a>
    </th>
-    <th>[![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/)</th>
+    <th><!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#f1f400" style="background-color: #f1f400; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/novidadeseries" target="_blank" style="16px; font-family: Helvetica, Arial, sans-serif; color: #010101; font-weight:normal; text-align:center; background-color: #f1f400; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #010101; font-weight:normal; line-height:1.5em; text-align:center;">Novidades em Séries</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center></th>
     <th>[![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu)</th>
   </tr>
   <tr>
