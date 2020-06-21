@@ -63,7 +63,10 @@ ETA: 3m 28s
 
 <table style="width:100%">
   <tr>
-    <th>[![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu)</th>
+    <th><a href="http://bit.ly/repokachu">
+<img src="https://tinyurl.com/ydcxhx7f" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+   </th>
     <th>[![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/)</th>
     <th>[![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu)</th>
   </tr>
