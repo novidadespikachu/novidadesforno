@@ -64,7 +64,10 @@ ETA: 3m 28s
 
 <table style="width:90%">
   <tr>
-    <th><a href="https://bit.ly/novidadenovelas">	<img src="https://tinyurl.com/ybrg85o5" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadenovelas">
+<img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
+</a>
+     </th>
     <th><a href="https://bit.ly/pikachufull"> <img src="https://tinyurl.com/y9zk36eq" alt=Pika" >	</a></th>
     <th><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t" alt=Pika" ></a></th>
   </tr>
