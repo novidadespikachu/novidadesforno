@@ -61,7 +61,7 @@ Progress: [█           ] 8%
 Speed: 12.12MBps
 ETA: 3m 28s
 nao e simples nao mano é desse jeito aqui
-<tr>
+
 <a href="https://bit.ly/novidadenovelas">
 <img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
 </a>
@@ -71,7 +71,7 @@ nao e simples nao mano é desse jeito aqui
 <a href="https://bit.ly/novidadedocs">
 <img src="https://tinyurl.com/y9xs5l4t" alt="pikachu">
 </a>
- </tr>
+ 
  
 <a href="https://bit.ly/novidadesfilmes">
 <img src="https://tinyurl.com/ydewsb4q" alt="pikachu">
@@ -83,18 +83,25 @@ nao e simples nao mano é desse jeito aqui
 <img src="https://tinyurl.com/y73n4mmf" alt="pikachu">
 </a>
 
+<a href="https://bit.ly/novidadeseries">
+<img src="https://tinyurl.com/y8pbauft" alt="pikachu">
+</a>
+<a href="https://bit.ly/novidadeinfantil">
+<img src="https://tinyurl.com/y9pkjsed" alt="pikachu">
+</a>
+<a href="https://bit.ly/novidadeshows">
+<img src="https://tinyurl.com/ybdjml82" alt="pikachu">
+</a>
+<a href="https://bit.ly/novidadeTV">
+<img src="https://tinyurl.com/ydbcnj3f" alt="pikachu">
+</a>
+<a href="https://bit.ly/pikachufull">
+<img src="https://tinyurl.com/y72vpx8n" alt="pikachu">
+</a>
+</a>
+<a href="https://bit.ly/novidadelives">
+<img src="https://tinyurl.com/y8ehpr7u" alt="pikachu">
 
-
-    <th><a href="https://bit.ly/novidadeseries">	<img src="https://tinyurl.com/y8pbauft" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidadeinfantil">	<img src="https://tinyurl.com/y9pkjsed" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidadeshows">	<img src="https://tinyurl.com/ybdjml82" alt=Pika" ></a></th>
-  </tr>
-   <tr>
-    <th><a href="https://bit.ly/novidadeTV">	<img src="https://tinyurl.com/ydbcnj3f" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/pikachufull">	<img src="https://tinyurl.com/y72vpx8n" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidadelives">	<img src="https://tinyurl.com/y8ehpr7u" alt=Pika" ></a></th>
-  </tr>
-</table>
 
 ## Especificações do forno
 > Internet
