@@ -77,6 +77,9 @@ ETA: 3m 28s
 <a href="https://bit.ly/novidadeinfantil">
 <img src="https://tinyurl.com/y9pkjsed" alt="pikachu">
 </a>
+<a href="https://bit.ly/novidadeanimes">
+<img src="https://tinyurl.com/y8tc5v56" alt="pikachu">
+</a>
 <a href="https://bit.ly/novidadeshows">
 <img src="https://tinyurl.com/ybdjml82" alt="pikachu">
 </a>
@@ -88,9 +91,6 @@ ETA: 3m 28s
 </a>
 <a href="https://bit.ly/novidadelives">
 <img src="https://tinyurl.com/y8ehpr7u" alt="pikachu">
-</a>
-<a href="https://bit.ly/novidadeanimes">
-<img src="https://tinyurl.com/y8tc5v56" alt="pikachu">
 </a>
 <a href="https://bit.ly/novidadeTV">
 <img src="https://tinyurl.com/ydbcnj3f" alt="pikachu">
