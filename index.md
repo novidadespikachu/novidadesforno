@@ -61,40 +61,30 @@ Progress: [█           ] 8%
 Speed: 12.12MBps
 ETA: 3m 28s
 
-<table style="width:100%">
-  <tr>
-    <th><a href="http://bit.ly/repokachu">
-<img src="https://tinyurl.com/ydcxhx7f" alt="HTML tutorial" >
-</a>
-   </th>
-    <th><!--Button-->
-<center>
- <table align="center" cellspacing="0" cellpadding="0" width="100%">
+<table style="width:90%">
+  <tr>
+    <th><a href="https://bit.ly/novidadeseries">	<img src="https://tinyurl.com/y8pbauft" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/pikachufull">	<img src="https://tinyurl.com/y8l63rjc" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadeshows">	<img src="https://tinyurl.com/ybdjml82" alt=Pika" ></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://bit.ly/novidadeTV">	<img src="https://tinyurl.com/ydbcnj3f" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadeanimes">	<img src="https://tinyurl.com/y8tc5v56" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadelives">	<img src="https://tinyurl.com/y8ehpr7u" alt=Pika" ></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://bit.ly/novidadenovelas">	<img src="https://tinyurl.com/ybrg85o5" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadeinfantil">	<img src="https://tinyurl.com/y9pkjsed" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t alt=Pika" ></a></th>
    <tr>
-     <td align="center" style="padding: 10px;">
-       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
-         <tr>
-           <td align="center" bgcolor="#f1f400" style="background-color: #f1f400; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
-           <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/novidadeseries" target="_blank" style="16px; font-family: Helvetica, Arial, sans-serif; color: #010101; font-weight:normal; text-align:center; background-color: #f1f400; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #010101; font-weight:normal; line-height:1.5em; text-align:center;">Novidades em Séries</span>
-             </a>
-           <!--[if mso]>&nbsp;<![endif]-->
-           </td>
-         </tr>
-       </table>
-     </td>
-   </tr>
- </table>
-</center></th>
-    <th>[![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu)</th>
-  </tr>
-  <tr>
-    <td>[![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu)</td>
-    <td>[![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/)</td>
-    <td>[![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu)</td>
-  </tr>
- </table>
+    <th><a href="https://bit.ly/novidadesfilmes">	<img src="https://tinyurl.com/ydewsb4q" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/pikachufull">	<img src="https://tinyurl.com/y72vpx8n" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidaDesenhos">	<img src="https://tinyurl.com/y73n4mmf alt=Pika" ></a></th>
+  </tr>
+
+  </tr>
+</table>
+
 <h3 style="text-align: center; font-size: 23px; border: none">
     🔰 Copias não serão toleradas 🔰
 </h3>
