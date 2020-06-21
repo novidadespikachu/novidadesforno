@@ -71,7 +71,7 @@ ETA: 3m 28s
   <tr>
     <th><a href="https://bit.ly/novidadesfilmes">	<img src="https://tinyurl.com/ydewsb4q" alt=Pika" ></a></th>
     <th><a href="https://bit.ly/novidadeanimes">	<img src="https://tinyurl.com/y8tc5v56" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidadelives">	<img src="https://tinyurl.com/y8ehpr7u" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidaDesenhos">	<img src="https://tinyurl.com/y73n4mmf" alt=Pika" ></a></th>
   </tr>
   <tr>
     <th><a href="https://bit.ly/novidadeseries">	<img src="https://tinyurl.com/y8pbauft" alt=Pika" ></a></th>
@@ -81,7 +81,7 @@ ETA: 3m 28s
    <tr>
     <th><a href="https://bit.ly/novidadeTV">	<img src="https://tinyurl.com/ydbcnj3f" alt=Pika" ></a></th>
     <th><a href="https://bit.ly/pikachufull">	<img src="https://tinyurl.com/y72vpx8n" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidaDesenhos">	<img src="https://tinyurl.com/y73n4mmf" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadelives">	<img src="https://tinyurl.com/y8ehpr7u" alt=Pika" ></a></th>
   </tr>
 </table>
 
