@@ -1,7 +1,10 @@
 <!--Copias não serão toleradas-->
 
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
+ 
  ## sexta, 19 de junho de 2020
+ 
+ 
 ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE AMANHÃ ...FIQUE LIGADO NO PIKACHU ...
 
 Uploading: Equal.Standard.2020.1080p.WEBRip.Legendado.mkv
