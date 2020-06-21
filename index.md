@@ -63,51 +63,19 @@ ETA: 3m 28s
 
 <table style="width:100%">
   <tr>
-    <th>
-     <h3 style="text-align: center; font-size: 20px; border: none">
-      <a href="https://bit.ly/novidadeseries" target=_blank" style="text-decoration: none;">
-                                                                                           🔰 Novidades em Séries1🔰
-                                                                                           </a>
-                                                                                           </h3>
-                                                                                           </th>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadesfilmes" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Filmes🔰  </a></h3></th>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadeshows" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Shows🔰  </a></h3></th>
+    <th>[![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu)</th>
+    <th>[![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/)</th>
+    <th>[![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu)</th>
   </tr>
   <tr>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadeTV" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em TV🔰  </a></h3></th>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadeanimes" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Animes🔰  </a></h3></th>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadelives" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Lives🔰  </a></h3></th>
+    <td>[![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu)</td>
+    <td>[![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/)</td>
+    <td>[![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu)</td>
   </tr>
-  <tr>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadenovelas" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Novela🔰  </a></h3></th>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadeinfantil" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Infantil🔰  </a></h3></th>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadedocs" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Documentários🔰  </a></h3></th>
-  </tr>
-   <tr>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidaDesenhos" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Desenhos🔰  </a></h3></th>
-    <th><h3 style="text-align: center; font-size: 23px; border: none">
+ </table>
+<h3 style="text-align: center; font-size: 23px; border: none">
     🔰 Copias não serão toleradas 🔰
-</h3></th>
-  </tr>
-</table>
+</h3>
 
 ## Especificações do forno
 > Internet
