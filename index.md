@@ -68,8 +68,13 @@ nao e simples nao mano é desse jeito aqui
 <img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
 </a>
      </th>
-    <th><a href="https://bit.ly/pikachufull"> <img src="https://tinyurl.com/y9zk36eq" alt=Pika">	</a></th>
-    <th><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/pikachufull">
+<img src="https://tinyurl.com/y9zk36eq" alt="pikachu">
+</a></th>
+    <th><a href="https://bit.ly/novidadedocs">
+<img src="https://tinyurl.com/y9xs5l4t" alt="pikachu">
+</a>
+     </th>
   </tr>
   <tr>
     <th><a href="https://bit.ly/novidadesfilmes">	<img src="https://tinyurl.com/ydewsb4q" alt=Pika" ></a></th>
