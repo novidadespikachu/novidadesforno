@@ -87,8 +87,8 @@ ETA: 3m 28s
 <table style="width:90%">
   <tr>
     <th><a href="https://bit.ly/novidadeseries">	<img src="https://tinyurl.com/y8pbauft" alt=Pika" ></a></th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th><a href="https://bit.ly/pikachufull">	<img src="https://tinyurl.com/y8l63rjc" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadeshows">	<img src="https://tinyurl.com/ybdjml82" alt=Pika" ></a></th>
   </tr>
   <tr>
     <td>Jill</td>
