@@ -74,34 +74,34 @@ ETA: 3m 28s
     🔰 Novidades em Shows🔰  </a></h3></th>
   </tr>
   <tr>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadeTV" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em TV🔰  </a></h3></td>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    🔰 Novidades em TV🔰  </a></h3></th>
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadeanimes" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Animes🔰  </a></h3></td>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    🔰 Novidades em Animes🔰  </a></h3></th>
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadelives" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Lives🔰  </a></h3></td>
+    🔰 Novidades em Lives🔰  </a></h3></th>
   </tr>
   <tr>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadenovelas" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Novela🔰  </a></h3></td>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    🔰 Novidades em Novela🔰  </a></h3></th>
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadeinfantil" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Infantil🔰  </a></h3></td>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    🔰 Novidades em Infantil🔰  </a></h3></th>
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadedocs" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Documentários🔰  </a></h3></td>
+    🔰 Novidades em Documentários🔰  </a></h3></th>
   </tr>
    <tr>
-    <td><h3 style="text-align: center; font-size: 20px; border: none">
+    <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidaDesenhos" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Desenhos🔰  </a></h3></td>
-    <td><h3 style="text-align: center; font-size: 23px; border: none">
+    🔰 Novidades em Desenhos🔰  </a></h3></th>
+    <th><h3 style="text-align: center; font-size: 23px; border: none">
     🔰 Copias não serão toleradas 🔰
-</h3></td>
+</h3></th>
   </tr>
 </table>
 
