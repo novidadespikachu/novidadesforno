@@ -62,10 +62,9 @@ Speed: 12.12MBps
 ETA: 3m 28s
 
 <h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/attfilmes" target="_blank" style="text-decoration: none;">
-    🔰 Novidades em filmes 🔰
-  </a>
-</h3>
+  <a href="https://bit.ly/novidadesforno target=_blank" style="text-decoration: none;">
+    🔰 Acompanhe as novidades no forno🔰  </a></h3>
+
 
 <h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/showsnovidades" target="_blank" style="text-decoration: none;">
