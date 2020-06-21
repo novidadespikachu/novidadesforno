@@ -76,6 +76,7 @@ ETA: 3m 28s
     <th><a href="https://bit.ly/novidadenovelas">	<img src="https://tinyurl.com/ybrg85o5" alt=Pika" ></a></th>
     <th><a href="https://bit.ly/novidadeinfantil">	<img src="https://tinyurl.com/y9pkjsed" alt=Pika" ></a></th>
     <th><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t" alt=Pika" ></a></th>
+   </tr>
    <tr>
     <th><a href="https://bit.ly/novidadesfilmes">	<img src="https://tinyurl.com/ydewsb4q" alt=Pika" ></a></th>
     <th><a href="https://bit.ly/pikachufull">	<img src="https://tinyurl.com/y72vpx8n" alt=Pika" ></a></th>
