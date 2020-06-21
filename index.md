@@ -73,9 +73,9 @@ ETA: 3m 28s
     <th></th>
   </tr>
   <tr>
-    <th><a href="https://bit.ly/novidadenovelas">	<img src="https://tinyurl.com/ybrg85o5" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidadeinfantil">	<img src="https://tinyurl.com/y9pkjsed" alt=Pika" ></a></th>
-    <th><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t" alt=Pika" ></a></th>
+    <th></th>
+    <th></th>
+    <th></th>
    </tr>
    <tr>
     <th><a href="https://bit.ly/novidadesfilmes">	<img src="https://tinyurl.com/ydewsb4q" alt=Pika" ></a></th>
@@ -91,14 +91,14 @@ ETA: 3m 28s
     <th><a href="https://bit.ly/novidadeshows">	<img src="https://tinyurl.com/ybdjml82" alt=Pika" ></a></th>
   </tr>
   <tr>
-    <td><a href="https://bit.ly/novidadeTV">	<img src="https://tinyurl.com/ydbcnj3f" alt=Pika" ></a></td>
-    <td><a href="https://bit.ly/novidadeanimes">	<img src="https://tinyurl.com/y8tc5v56" alt=Pika" ></a></td>
-    <td><a href="https://bit.ly/novidadelives">	<img src="https://tinyurl.com/y8ehpr7u" alt=Pika" ></a></td>
+    <th><a href="https://bit.ly/novidadeTV">	<img src="https://tinyurl.com/ydbcnj3f" alt=Pika" ></a></td>
+    <th><a href="https://bit.ly/novidadeanimes">	<img src="https://tinyurl.com/y8tc5v56" alt=Pika" ></a></th>
+    <th><a href="https://bit.ly/novidadelives">	<img src="https://tinyurl.com/y8ehpr7u" alt=Pika" ></a></th>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><a href="https://bit.ly/novidadenovelas">	<img src="https://tinyurl.com/ybrg85o5" alt=Pika" ></a></td>
+    <td><a href="https://bit.ly/novidadeinfantil">	<img src="https://tinyurl.com/y9pkjsed" alt=Pika" ></a></td>
+    <td><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t" alt=Pika" ></a></td>
   </tr>
 </table>
 
