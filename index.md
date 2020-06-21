@@ -95,22 +95,15 @@ ETA: 3m 28s
   <a href="https://bit.ly/novidadedocs" target=_blank" style="text-decoration: none;">
     🔰 Novidades em Documentários🔰  </a></h3></td>
   </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<h3 style="text-align: center; font-size: 20px; border: none">
+   <tr>
+    <td><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidaDesenhos" target=_blank" style="text-decoration: none;">
-    🔰 Novidades em Desenhos🔰  </a></h3>
-<h3 style="text-align: center; font-size: 23px; border: none">
+    🔰 Novidades em Desenhos🔰  </a></h3></td>
+    <td><h3 style="text-align: center; font-size: 23px; border: none">
     🔰 Copias não serão toleradas 🔰
-</h3>
+</h3></td>
+  </tr>
+</table>
 
 ## Especificações do forno
 > Internet
