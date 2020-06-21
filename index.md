@@ -61,7 +61,7 @@ Progress: [█           ] 8%
 Speed: 12.12MBps
 ETA: 3m 28s
 nao e simples nao mano é desse jeito aqui
-
+<tr>
 <a href="https://bit.ly/novidadenovelas">
 <img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
 </a>
@@ -71,11 +71,18 @@ nao e simples nao mano é desse jeito aqui
 <a href="https://bit.ly/novidadedocs">
 <img src="https://tinyurl.com/y9xs5l4t" alt="pikachu">
 </a>
+ </tr>
+ 
+<a href="https://bit.ly/novidadesfilmes">
+<img src="https://tinyurl.com/ydewsb4q" alt="pikachu">
+</a>
+<a href="https://bit.ly/novidadeanimes">
+<img src="https://tinyurl.com/y8tc5v56" alt="pikachu">
+</a>
+<a href="https://bit.ly/novidaDesenhos">
+<img src="https://tinyurl.com/y73n4mmf" alt="pikachu">
+</a>
 
-
-<a href="https://bit.ly/novidadesfilmes">	<img src="https://tinyurl.com/ydewsb4q" alt=Pika"></a>
-<a href="https://bit.ly/novidadeanimes">	<img src="https://tinyurl.com/y8tc5v56" alt=Pika"></a>
-<a href="https://bit.ly/novidaDesenhos">	<img src="https://tinyurl.com/y73n4mmf" alt=Pika"></a>
 
 
     <th><a href="https://bit.ly/novidadeseries">	<img src="https://tinyurl.com/y8pbauft" alt=Pika" ></a></th>
