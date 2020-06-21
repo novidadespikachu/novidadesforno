@@ -1,37 +1,117 @@
-## Welcome to GitHub Pages
+<!--Copias não serão toleradas-->
 
-You can use the [editor on GitHub](https://github.com/novidadespikachu/novidadesforno/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
+ ## sexta, 19 de junho de 2020
+ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE AMANHÃ ...FIQUE LIGADO NO PIKACHU ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uploading: Equal.Standard.2020.1080p.WEBRip.Legendado.mkv
+Size: 2.25GB
+Progress: [████▎        ] 34%
+Speed: 22.71MBps
+ETA: 1m 6s
 
-### Markdown
+Filename: Equal.Standard.2020.1080p.WEBRip.Dublado.mkv
+Size: 2.25GB
+Progress: [█████▏       ] 41%
+Speed: 9.96MBps
+ETA: 2m 17s
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Filename: Legacy.2020.1080p.WEBRip.Dublado.mkv
+Size: 2.2GB
+Progress: [████▌        ] 36%
+Speed: 9.2MBps
+ETA: 2m 36s
 
-```markdown
-Syntax highlighted code block
+Filename: Burden.2018.1080p.WEBRip.Dublado.mkv
+Size: 2.58GB
+Progress: [███         ] 24%
+Speed: 10.11MBps
+ETA: 3m 17s
 
-# Header 1
-## Header 2
-### Header 3
+Filename: Gundala.2019.1080p.WEBRip.Dublado.mkv
+Size: 2.69GB
+Progress: [██▋          ] 21%
+Speed: 9.37MBps
+ETA: 3m 53s
 
-- Bulleted
-- List
+Filename:  Wasp Network Rede de Espiões 2020 [1080p-FULL] [DUAL]
+Size: 5.5GB
+Progress: [▏            ] 1%
+Speed: 1.78MBps
+ETA: 52m 24s
 
-1. Numbered
-2. List
+Filename: Infamous.2020.1080p.WEBRip.Legendado.mkv
+Size: 2.22GB
+Progress: [███▉         ] 31%
+Speed: 25.15MBps
+ETA: 1m 2s
 
-**Bold** and _Italic_ and `Code` text
+Filename: Stairs.2019.1080p.WEBRip.Legendado.mkv
+Size: 2.3GB
+Progress: [█           ] 8%
+Speed: 11.01MBps
+ETA: 3m 17s
 
-[Link](url) and ![Image](src)
-```
+Filename: The.Personal.History.of.David.Copperfield.2019.1080p.BDRip.Legendado.mkv
+Size: 2.69GB
+Progress: [█           ] 8%
+Speed: 12.12MBps
+ETA: 3m 28s
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3 style="text-align: center; font-size: 20px; border: none">
+  <a href="https://bit.ly/attfilmes" target="_blank" style="text-decoration: none;">
+    🔰 Novidades em filmes 🔰
+  </a>
+</h3>
 
-### Jekyll Themes
+<h3 style="text-align: center; font-size: 20px; border: none">
+  <a href="https://bit.ly/showsnovidades" target="_blank" style="text-decoration: none;">
+    🔰 Novidades em Shows 🔰
+  </a>
+  </h3>
+  
+<h3 style="text-align: center; font-size: 20px; border: none">
+  <a href="https://bit.ly/downloadkachu" target="_blank" style="text-decoration: none;">
+    🔰 Novidades no forno! 🔰
+  </a>
+</h3>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/novidadespikachu/novidadesforno/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h3 style="text-align: center; font-size: 23px; border: none">
+    🔰 Copias não serão toleradas 🔰
+</h3>
 
-### Support or Contact
+## Especificações do forno
+> Internet
+> ```
+> X sudo apt install speedtest-cli
+> X speedtest-cli
+> Testing download speed................................................................................Download: 1180.05 Mbit/s
+> Testing upload speed..................................................................................Upload:   100.71  Mbit/s
+>```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Processador
+> ```
+> X lscpu |grep 'Model name'
+> X cat /proc/cpuinfo
+> Model name:          Intel(R) Xeon(R) CPU @ 2.20GHz
+> processor	: 0
+> vendor_id	: GenuineIntel
+> cache size	: 56320 KB
+> ```
+> [Intel(R) Xeon(R) CPU @ 2.20GHz :moneybag:](https://tinyurl.com/y7mp2e5l)
+
+> GPU
+> ```
+> X nvidia-smi -L
+> GPU 0: Tesla P100-PCIE-16GB
+> ```
+> [NVIDIA Tesla P100 GPU computing processor - Tesla P100 - 16 GB :moneybag:](https://tinyurl.com/y8cjud2r)
+
+> HDD :trollface::hurtrealbad::shipit:
+> ```
+> X df -h / | awk '{print $4}'
+> Avail
+> 34G
+> ```
+
+<!--Copias não serão toleradas-->
