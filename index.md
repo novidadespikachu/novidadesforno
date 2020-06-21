@@ -62,7 +62,7 @@ Speed: 12.12MBps
 ETA: 3m 28s
 
 <h3 style="text-align: center; font-size: 20px; border: none">
-  <a href="https://bit.ly/novidadesforno target=_blank" style="text-decoration: none;">
+  <a href="https://bit.ly/novidadesforno" target=_blank" style="text-decoration: none;">
     🔰 Acompanhe as novidades no forno🔰  </a></h3>
 
 
