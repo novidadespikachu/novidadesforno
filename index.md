@@ -84,7 +84,23 @@ ETA: 3m 28s
   </tr>
 </table>
 
-
+<table style="width:90%">
+  <tr>
+    <th><a href="https://bit.ly/novidadeseries">	<img src="https://tinyurl.com/y8pbauft" alt=Pika" ></a></th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
 
 ## Especificações do forno
 > Internet
