@@ -63,11 +63,13 @@ ETA: 3m 28s
 
 <table style="width:100%">
   <tr>
-    <th><h3 style="text-align: center; font-size: 20px; border: none">
+    <th>
+     <h3 style="text-align: center; font-size: 20px; border: none">
       <a href="https://bit.ly/novidadeseries" target=_blank" style="text-decoration: none;">
-
-🔰 Novidades em Séries🔰  </a></h3>
-    </th>
+                                                                                           🔰 Novidades em Séries1🔰
+                                                                                           </a>
+                                                                                           </h3>
+                                                                                           </th>
     <th><h3 style="text-align: center; font-size: 20px; border: none">
   <a href="https://bit.ly/novidadesfilmes" target=_blank" style="text-decoration: none;">
     🔰 Novidades em Filmes🔰  </a></h3></th>
