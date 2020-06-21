@@ -60,7 +60,7 @@ Size: 2.69GB
 Progress: [█           ] 8%
 Speed: 12.12MBps
 ETA: 3m 28s
-
+nao e simples nao mano é desse jeito aqui
 
 <table style="width:90%">
   <tr>
@@ -68,7 +68,7 @@ ETA: 3m 28s
 <img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
 </a>
      </th>
-    <th><a href="https://bit.ly/pikachufull"> <img src="https://tinyurl.com/y9zk36eq" alt=Pika" >	</a></th>
+    <th><a href="https://bit.ly/pikachufull"> <img src="https://tinyurl.com/y9zk36eq" alt=Pika">	</a></th>
     <th><a href="https://bit.ly/novidadedocs">	<img src="https://tinyurl.com/y9xs5l4t" alt=Pika" ></a></th>
   </tr>
   <tr>
