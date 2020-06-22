@@ -2,7 +2,7 @@
 
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
  
-## Segunda, 22 de junho de 2020
+## Segunda, 22 de junho de 2020 -->[ Para Hoje. ]
  
  
 ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE HOJE ...FIQUE LIGADO NO PIKACHU ...
@@ -25,7 +25,7 @@ Progress: [███▊         ] 30%
 Speed: 9.03MBps
 ETA: 5m 25s
 
-## Sábado, 21 de junho de 2020 --> [ Já Postados Confiram No Addon ].
+## Sábado, 21 de junho de 2020 --> [ Já Postados Confiram No Addon. ]
 
 Uploading: Equal.Standard.2020.1080p.WEBRip.Legendado.mkv
 Size: 2.25GB
