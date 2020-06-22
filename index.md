@@ -2,10 +2,28 @@
 
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
  
-## sexta, 19 de junho de 2020
+## Segunda, 22 de junho de 2020
  
  
 ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE AMANHÃ ...FIQUE LIGADO NO PIKACHU ...
+
+Filename: A Prova de Balas 2 2020 [720p] [DUBLADO]
+Size: 1.42GB
+Progress: [▎            ] 2%
+Speed: 181.3KBps
+ETA: 2h 13m 28s
+
+Filename: Ambulância do Terror 2020 [1080p] [DUAL]
+Size: 1.52GB
+Progress: [████████▌    ] 68%
+Speed: 7.95MBps
+ETA: 1m 1s
+
+Filename: A Prova de Balas 2 2020 [1080p-FULL] [DUAL]
+Size: 4.1GB
+Progress: [███▊         ] 30%
+Speed: 9.03MBps
+ETA: 5m 25s
 
 Uploading: Equal.Standard.2020.1080p.WEBRip.Legendado.mkv
 Size: 2.25GB
