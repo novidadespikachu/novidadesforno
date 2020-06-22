@@ -7,6 +7,18 @@
  
 ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE HOJE ...FIQUE LIGADO NO PIKACHU ...
 
+Uploading: COMANDO.TO - Hard S01E06 [1080p]
+Size: 843.56MB
+Progress: [████████████▍] 99%
+Speed: 55.96MBps
+ETA: 0s
+
+Filename: COMANDO.TO - Cosmos Mundos Possiveis S01E03 [720p] [DUAL]
+Size: 836MB
+Progress: [██████      ] 48%
+Speed: 6.33MBps
+ETA: 1m 8s
+
 Filename: A Prova de Balas 2 2020 [720p] [DUBLADO]
 Size: 1.42GB
 Progress: [▎            ] 2%
