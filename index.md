@@ -5,7 +5,7 @@
 ## Segunda, 22 de junho de 2020
  
  
-ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE AMANHÃ ...FIQUE LIGADO NO PIKACHU ...
+ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE HOJE ...FIQUE LIGADO NO PIKACHU ...
 
 Filename: A Prova de Balas 2 2020 [720p] [DUBLADO]
 Size: 1.42GB
@@ -24,6 +24,8 @@ Size: 4.1GB
 Progress: [███▊         ] 30%
 Speed: 9.03MBps
 ETA: 5m 25s
+
+## Sábado, 21 de junho de 2020 --> [ Já Postados Confiram No Addon ].
 
 Uploading: Equal.Standard.2020.1080p.WEBRip.Legendado.mkv
 Size: 2.25GB
