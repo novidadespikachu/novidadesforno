@@ -3,7 +3,87 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div>
  
-## Segunda, 22 de junho de 2020 -->[ Para Hoje. ]
+## Terça Feira, 24 de junho de 2020 -->[ Para Quarta Feira ] 
+
+Filename: The.Clearing.2020.1080p.WEBRip.Legendado.mkv
+Size: 1.9GB
+Progress: [█████████▏   ] 73%
+Speed: 4.83MBps
+ETA: 1m 48s
+
+Filename: I.Am.Vengeance.Retaliation.2020.1080p.WEBRip.Legendado.mkv
+Size: 1.85GB
+Progress: [███████████▌ ] 92%
+Speed: 7.01MBps
+ETA: 21s
+
+Filename:  Lincoln Rhyme Hunt For The Bone Collector S01E01 [720p] [DUAL]
+Size: 722.59MB
+Progress: [████████▊    ] 70%
+Speed: 1.28MBps
+ETA: 2m 47s
+
+Filename:  Lincoln Rhyme Hunt For The Bone Collector S01E02
+Size: 718.95MB
+Progress: [███████████▌ ] 92%
+Speed: 2.74MBps
+ETA: 20s
+
+Filename:  Lincoln Rhyme Hunt For The Bone Collector S01E03 [720p] [DUAL]
+Size: 719.28MB
+Progress: [██████▉      ] 55%
+Speed: 1.05MBps
+ETA: 5m 5s
+
+Filename: Lincoln Rhyme Hunt For The Bone Collector S01E06 [DUAL] [720p]
+Size: 723.79MB
+Progress: [▊            ] 6%
+Speed: 598.95KBps
+ETA: 19m 19s
+
+Filename: Stairs.2019.1080p.WEBRip.Legendado.mkv
+Size: 2.3GB
+Progress: [█████▋       ] 45%
+Speed: 7.38MBps
+ETA: 2m 54s
+
+Filename: Infamous.2020.1080p.WEBRip.Legendado.mkv
+Size: 2.22GB
+Progress: [████▉        ] 39%
+Speed: 7.74MBps
+ETA: 3m 0s
+
+Filename:  O Dia de Amanhã S01E02-03 [720p] [DUAL]
+Size: 1.98GB
+Progress: [▏            ] 1%
+Speed: 188.38KBps
+ETA: 3h 0m 57s
+
+Filename: Maximillian.2019.1080p.WEBRip.Legendado.mkv
+Size: 1.59GB
+Progress: [██▎          ] 18%
+Speed: 5.43MBps
+ETA: 4m 5s
+
+Filename:  El Dia De Manana S01E01 [720p] [DUAL]
+Size: 948.76MB
+Progress: [▋            ] 5%
+Speed: 575.2KBps
+ETA: 26m 50s
+
+Filename: Stairs.2019.1080p.WEBRip.Dublado.mkv
+Size: 2.3GB
+Progress: [█▌           ] 12%
+Speed: 4.56MBps
+ETA: 7m 37s
+
+Filename: Driven.2019.1080p.WEBRip.Legendado.mkv
+Size: 2.04GB
+Progress: [██          ] 16%
+Speed: 6.02MBps
+ETA: 4m 50s 
+ 
+## Terça Feira, 23 de junho de 2020 -->[ Já Postados ]
  
  
 ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE HOJE ...FIQUE LIGADO NO PIKACHU ...
