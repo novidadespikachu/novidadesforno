@@ -3,7 +3,7 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div>
  
-## Terça Feira, 24 de junho de 2020 -->[  Para Quarta Feira  ] 
+## Quarta Feira, 24 de junho de 2020 -->[  Para Quarta Feira  ] 
 
 Filename: The.Clearing.2020.1080p.WEBRip.Legendado.mkv
 Size: 1.9GB
