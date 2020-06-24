@@ -3,7 +3,7 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div>
  
-## Terça Feira, 24 de junho de 2020 -->[ Para Quarta Feira ] 
+## Terça Feira, 24 de junho de 2020 -->[  Para Quarta Feira  ] 
 
 Filename: The.Clearing.2020.1080p.WEBRip.Legendado.mkv
 Size: 1.9GB
@@ -83,7 +83,7 @@ Progress: [██          ] 16%
 Speed: 6.02MBps
 ETA: 4m 50s 
  
-## Terça Feira, 23 de junho de 2020 -->[ Já Postados ]
+## Terça Feira, 23 de junho de 2020 -->[  Já Postados Confiram No Addon  ]
  
  
 ADDON PIKACHU ENTRETENIMENTOS !!! NOVIDADES DE HOJE ...FIQUE LIGADO NO PIKACHU ...
@@ -118,7 +118,7 @@ Progress: [███▊         ] 30%
 Speed: 9.03MBps
 ETA: 5m 25s
 
-## Sábado, 21 de junho de 2020 --> [ Já Postados Confiram No Addon. ]
+## Sábado, 21 de junho de 2020 --> [  Já Postados Confiram No Addon.  ]
 
 Uploading: Equal.Standard.2020.1080p.WEBRip.Legendado.mkv
 Size: 2.25GB
